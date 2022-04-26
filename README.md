@@ -1,6 +1,6 @@
 # LTSPetherLab
 
-Proxy as a HUB 
+Proxy as a HUB POPdrop (secure) callin terminal 
 
 NetChat
 
